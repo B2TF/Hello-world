@@ -1,5 +1,5 @@
 # Hello-world
 Test programming file
 
-Python beginner 
-lear to code, and code to learn 
+Python beginner
+learn to code, and code to learn 
